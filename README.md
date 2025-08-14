@@ -36,7 +36,7 @@ Currently, I’m focusing on **frontend development** with a strong foundation i
 |--------------|-------------|-----------|
 | Educational Website | Showcase a full scale educational website | React, TailwindCSS |
 | Personal Portfolio | A personal portfolio project about my work and WHOAMI | React, Tailwindcss |
-| Restaurant Website (food-delivery-website-79it256xr-paritoshs-projects-1b5b53f8.vercel.app) | A full scale website with order, cart & list of dishes | React, Tailwindcss |
+| Restaurant Website | A full scale website with order, cart & list of dishes | React, Tailwindcss |
 
 ---
 
