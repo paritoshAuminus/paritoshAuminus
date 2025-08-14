@@ -34,9 +34,9 @@ Currently, I’m focusing on **frontend development** with a strong foundation i
 ## 📌 Featured Projects
 | Project Name | Description | Tech Used |
 |--------------|-------------|-----------|
-| Task Manager App | Manage tasks with deadlines, tags, and filters | React, TailwindCSS |
-| Contact App | Store and manage contacts with CRUD operations | React, Bootstrap |
-| Habit Tracker (WIP) | Track daily habits and progress | React, CSS |
+| Educational Website | Showcase a full scale educational website | React, TailwindCSS |
+| Personal Portfolio | A personal portfolio project about my work and WHOAMI | React, Tailwindcss |
+| Restaurant Website | A full scale website with order, cart & list of dishes | React, Tailwindcss |
 
 ---
 
@@ -48,8 +48,8 @@ Currently, I’m focusing on **frontend development** with a strong foundation i
 ---
 
 ## 📬 Let's Connect
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/paritoshAuminus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paritoshauminus/)
 
 ---
 
