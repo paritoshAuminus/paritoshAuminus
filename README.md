@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paritosh
+# Hi, I'm Paritosh
 
 💻 **Frontend Developer** | 🎯 **Aspiring Full-Stack Engineer** | 🚀 **On a mission to be job-ready by Dec 2025**  
 
