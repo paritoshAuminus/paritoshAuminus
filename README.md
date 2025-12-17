@@ -35,7 +35,7 @@ Currently, I’m focusing on **frontend development** with a strong foundation i
 | Project Name | Description | Tech Used |
 |--------------|-------------|-----------|
 | Educational Website | Showcase a full scale educational website | React, TailwindCSS |
-| Personal Portfolio | A personal portfolio project about my work and WHOAMI | React, Tailwindcss |
+| [Personal Portfolio](https://personal-portfolio-puce-delta-53.vercel.app/) | A personal portfolio project about my work and WHOAMI | React, Tailwindcss |
 | Restaurant Website | A full scale website with order, cart & list of dishes | React, Tailwindcss |
 
 ---
