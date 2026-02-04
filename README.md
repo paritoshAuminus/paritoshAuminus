@@ -1,49 +1,59 @@
-# Hi, I'm Paritosh
+# Hi, I'm Paritosh 👋
 
-💻 **Frontend Developer** | 🎯 **Aspiring Full-Stack Engineer** | 🚀 **On a mission to be job-ready by Dec 2025**  
+💻 **Frontend Developer** | ⚛️ **React-focused** | 🔧 **Building toward Full-Stack**  
 
-I’m passionate about crafting responsive, user-friendly web applications and continuously improving my skills.  
-Currently, I’m focusing on **frontend development** with a strong foundation in HTML, CSS, JavaScript, and modern frameworks.
+I build clean, responsive, and user-focused web applications using modern frontend technologies.  
+Currently focused on **frontend development**, with hands-on experience integrating APIs and building full stack real-world projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+**Languages**
 - HTML5, CSS3, JavaScript (ES6+), Python
 
-**Frameworks & Libraries:**
-- Bootstrap
-- TailwindCSS
+**Frontend**
 - React.js
+- Redux toolkit
+- TailwindCSS
 
-**Other Skills:**
+> Experience working with miscellaneous libraries like TinyMCE, React hook form and more.
+
+**Backend**
+- Django
+- Django REST Framework
+- REST APIs
+
+**Tools & Practices**
 - Responsive Web Design
 - API Integration
 - Git & GitHub
 
 ---
 
-## 🌱 What I'm Working On
-- Building personal projects to strengthen React & JavaScript skills
-- Exploring advanced frontend patterns
-- Practicing Data Structures & Algorithms for technical interviews
+## 🚧 What I'm Working On
+- Building and refining **React-based projects**
+- Improving UI/UX and frontend architecture
+- Strengthening JavaScript fundamentals
+- Preparing for frontend & full-stack interviews
 
 ---
 
 ## 📌 Featured Projects
-| Project Name | Description | Tech Used |
-|--------------|-------------|-----------|
-| Educational Website | Showcase a full scale educational website | React, TailwindCSS |
-| [Personal Portfolio](https://personal-portfolio-puce-delta-53.vercel.app/) | A personal portfolio project about my work and WHOAMI | React, Tailwindcss |
-| Restaurant Website | A full scale website with order, cart & list of dishes | React, Tailwindcss |
+
+| Project | Description | Tech | Stack |
+|--------|-------------|------|-------|
+| **[Personal Portfolio](https://personal-portfolio-puce-delta-53.vercel.app/)** | Portfolio showcasing projects, skills, and background | React, TailwindCSS | Frontend |
+| **[Blogify](https://github.com/paritoshAuminus/blogify)** | Blog application handling real-world use cases, deployed on **Vercel** and **Render** | React, Redux, TailwindCSS, Django, DRF | Full Stack |
+
 
 ---
 
-## 📈 Current Goals
-- 📚 Become job-ready in web development by **Dec 2025**
-- ⚡ Master advanced React patterns & state management
-- 🔍 Practice and improve problem-solving skills
+## 🎯 Current Goals
+- Become a junior **frontend developer**
+- Advance React patterns and state management
+- Improve problem-solving for technical interviews
+- Gradually expand backend & full-stack skills
 
 ---
 
@@ -53,5 +63,4 @@ Currently, I’m focusing on **frontend development** with a strong foundation i
 
 ---
 
-⭐ **Fun fact:** I believe that writing clean, reusable code is just as important as building cool features!
-
+⭐ **Fun fact:** I care deeply about clean, readable code — not just shipping features.
