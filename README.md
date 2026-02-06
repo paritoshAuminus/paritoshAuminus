@@ -63,4 +63,8 @@ Currently focused on **frontend development**, with hands-on experience integrat
 
 ---
 
+![GitHub 3D Contribution](./profile-3d-contrib/profile-night-view.svg)
+
+---
+
 ⭐ **Fun fact:** I care deeply about clean, readable code — not just shipping features.
